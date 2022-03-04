@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anurd
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning html/css/javascript
 - 📫 How to reach me @lurk2win on twitter!
 
 <!---
