@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @anurd
-- 👀 I’m interested in becoming more consistent with my passion
 - 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on TBD
 - 📫 How to reach me @lurk2win on twitter!
 
 <!---
